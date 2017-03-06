@@ -2,18 +2,18 @@
 #
 
 # Site settings
-title: Go Fishing Hawaii
-description: Haleiwa's premiere fishing charter call 808-637-9737 today! From trolling big game to jigging for tuna to bottom fishing Moana Kali, we do it all!
+title: Nani Kai Ocean Adventures
+description: Explore the beautiful North & West Shores on the Kama Hele Kai.
   
-owner: Go Fishing Hawaii LLC # or company name
+owner: Nani Kai Ocean Adventures LLC # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: info@gofishinghawaii.com
+email: info@nanikaioceanadventures.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.gofishinghawaii.com" # the base hostname & protocol for your site
+url: "http://www.nanikaioceanadventures.com" # the base hostname & protocol for your site
 social:
-  instagram: https://instagram.com/gofishing_hawaii
-  facebook-official: https://facebook.com/gofishinghawaii
-  email: mailto:info@gofishinghawaii.com
+  instagram: https://instagram.com/nanikaioceanadventures
+  #facebook-official: https://facebook.com/
+  email: mailto:info@nanikaioceanadventures.com
   #flickr:
   #instagram:
   #youtube-square:
